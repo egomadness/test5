@@ -1,0 +1,14 @@
+<Alloy>
+	<TableViewRow id="tableRowMedia" height="150">
+	<View class="container" layout="horizontal">
+	<ImageView id="photoStatus" height="100" width="100"></ImageView>
+	<View layout="vertical">
+		<Label  size="18"   id="lblStatus"></Label>
+		<Label id="lblPoints"></Label>	
+		
+		
+	</View>
+	
+	</View>
+	</TableViewRow>
+</Alloy>

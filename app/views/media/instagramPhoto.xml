@@ -1,0 +1,18 @@
+
+<Alloy>
+	
+	<View id="mainView"> 
+		
+	
+	
+    
+   
+	<ImageView id="listMedia"  defaultImage="loading.gif" />
+		
+	
+   
+	
+	
+	
+	</View>
+</Alloy>

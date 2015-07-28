@@ -1,0 +1,31 @@
+<Alloy>
+	
+
+<View id="mediaView"  >
+	<View  id="listHeader"   layout="horizontal"> 
+		<View id="lblListUser" width="15%"  layout="Vertical">
+				
+    		<ImageView   id="listUserPhoto"></ImageView>
+			
+		</View>
+		<View id="lblListFaceOffTitle"  layout="Vertical"  width="65%">
+				<Label  id="listUsername"></Label>
+				<Label id="lblTitle"></Label>
+			
+		</View>
+		<View id="lblListTime" width="20%" layout="horizontal" >
+			
+				<ImageView class="alertTimeImage"></ImageView>
+    		<Label  id="tm"></Label>
+		</View>
+		
+    		
+    	
+       </View>		
+ </View>
+
+
+	
+</Alloy>
+	
+

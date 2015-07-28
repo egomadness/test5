@@ -1,0 +1,24 @@
+
+".container" : {
+  
+}
+
+
+
+
+"#btnExplore" : {
+	
+	font: {
+		fontSize: 18,
+	}
+	
+}
+
+
+"#btnInstagram" : {
+	
+	font: {
+		fontSize: 18,
+	}
+	
+}

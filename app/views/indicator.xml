@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="loadIndicator">
+		
+		
+	<ActivityIndicator id="activityIndicator"></ActivityIndicator>	
+		
+	</Window>
+</Alloy>

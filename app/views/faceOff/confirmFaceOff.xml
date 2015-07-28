@@ -1,0 +1,23 @@
+<Alloy>
+	<Window class="mainWindow">
+		
+		<View class="topHeader">
+		<Label class="lblHeader">Confirm FaceOff</Label>
+		</View>
+		<View class="confirmHeader" layout="horizontal">
+		<Button id="btnCancel" class="btnCancel" >Cancel</Button>
+		<Button id="btnSubmit" class="btnConfirm">Confirm</Button>
+		
+		</View>
+		
+		
+		<View class="container"> 
+		
+		<TextField  id="txtFaceOffTitle" hintText="Create a FaceOff name"></TextField>
+		<View id="mediaView"></View>
+		</View>
+		
+		
+		
+	</Window>
+</Alloy>

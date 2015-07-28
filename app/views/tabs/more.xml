@@ -1,0 +1,16 @@
+<Alloy>
+	
+	<Window class="mainWindow" >
+	<View class="topHeader">
+		<Label class="lblHeader">More</Label>
+		</View>
+		<View id="menu">
+	     <Button id="lblProfile" class="menubtns btnSumbit ">My Profile</Button>
+	     <Button id="addFollower" class="menubtns btnSumbit ">Follow Egos</Button>
+		 <Button id="lblLogOut" class="blueButton menubtns btnSumbit ">Log Out</Button>
+		 <Button id="btnRemoveInstagram" class="menubtns btnSumbit " visible="false">Remove Instagram</Button>
+		</View>
+		
+	</Window>
+	
+</Alloy>

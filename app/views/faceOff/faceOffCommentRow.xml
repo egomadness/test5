@@ -1,0 +1,8 @@
+<Alloy>
+	<TableViewRow id="tableRowMedia" height="35">	
+		<View id="listHeader" height="35" layout="horizontal"> 
+			<Label  id="listUsername"></Label>
+    		<Label id="lblComment"></Label>		
+		</View>
+	</TableViewRow>
+</Alloy>

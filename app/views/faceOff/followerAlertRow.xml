@@ -1,0 +1,18 @@
+<Alloy>
+	<TableViewRow id="alertSmallRow">
+	 <View layout="horizontal">
+		
+		<ImageView   id="alertUserPhoto" ></ImageView>
+		
+		<View class="alertContent" >
+		<Label class="alertTitle"  id="lblUserName"></Label>
+		<Label class="alert" id="lblAlertText"></Label>
+		
+		</View>
+		<View layout="horizontal">
+		<ImageView class="alertTimeImage"></ImageView>	<Label class="alertTime" id="lblTime"></Label>
+			
+	   </View>
+	</View>	
+	</TableViewRow>
+</Alloy>

@@ -1,0 +1,17 @@
+<Alloy>
+
+	
+	<Window class="mainWindow"  id="topWindow">
+		<View class="topHeader">
+		<Label id="lblHeader" class="lblHeader">Explore</Label>
+		<ImageView  id="btnSearch" image="searchFilled.png"  class="addInstagram"></ImageView>
+		
+		</View>	
+		
+		<TableView id="table" >
+		
+	   </TableView>
+	</Window>
+	
+
+</Alloy>

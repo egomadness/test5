@@ -1,0 +1,14 @@
+<Alloy>
+	<TableViewRow id="tableRowMedia" height="100%" >
+	<View class="container"  layout="vertical" width="80%">
+		
+		
+		<ImageView  id="imgView" top="30%" ></ImageView>
+		
+		<Label    top="20"   textAlign="center" class="message" id="lblMessage">
+			
+			
+		</Label>
+	</View>
+	</TableViewRow>
+</Alloy>

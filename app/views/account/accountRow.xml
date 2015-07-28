@@ -1,0 +1,19 @@
+<Alloy>
+	<TableViewRow id="alertLargeRow"  >
+	 <View layout="horizontal">
+		
+		<ImageView   id="alertUserPhoto" ></ImageView>
+		
+		<View class="alertContent" >
+		<Label class="alertUserName alert" id="lblUserName"></Label>
+		<Button id="btnFollow"  height="50" class="btnFollow"></Button>
+		<View  class="alertAction" >
+		
+		
+		<Label></Label>
+		</View>
+		</View>
+	
+	</View>	
+	</TableViewRow>
+</Alloy>

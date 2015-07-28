@@ -1,0 +1,28 @@
+
+".container" : {
+  
+}
+
+
+
+
+
+"#mainConatiner" : {
+	
+	height: "400",
+	backgroundColor : "#2B2B2B",
+	backgroundGradient: {
+        backfillStart: true,
+        colors: [
+            '#0C0C0C',
+            '#868686'
+        ],
+        startPoint: { x: '50%', y: '50%' },
+        endPoint: { x: '50%', y: '50%' },
+        startRadius: '90%',
+        endRadius: 0,
+        type: 'radial'
+    },
+	
+}
+

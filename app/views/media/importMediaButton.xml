@@ -1,0 +1,5 @@
+<Alloy>
+	<View class="container">
+		<Button  id="btnImport" class="btnSumbit">Select</Button>
+	</View>
+</Alloy>

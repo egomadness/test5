@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container" id="screen" layout="vertical">
+		
+		<TextArea  top="10"  width="80%" borderWidth="1"   borderColor="gray"  height="100"  maxLength="200" id="text"  hintText="Add a comment.."></TextArea>	
+		<Button id="btnPost"  backgroundColor="gray"   enabled="false">Post</Button>
+	</Window>
+</Alloy>

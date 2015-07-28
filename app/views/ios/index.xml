@@ -1,0 +1,28 @@
+<Alloy>
+	
+	  <NavigationWindow>
+	  	
+	  	<Window layout="absolute"  navBarHidden="true"  backgroundImage="blackBackground.jpg" >
+	  		  	
+	  	<ImageView   id="imgLogo" image="homeScreenImage.png" width="150"  height="150"  top ="20%" ></ImageView>
+	  	
+	  	<View  class="leftButton">  
+	  			<Label  onClick="login" id="lblLogin"          text="Log in"></Label>
+	  	</View>
+	  			
+	  	<View class="rightButton">
+	  	      <Label id="lblSignUp" onClick="signup"     text="Sign up" ></Label>
+		 </View>
+	  		
+	  		
+	  		
+	  
+	  		
+	  		
+	  	</Window>
+	  	</NavigationWindow>
+			
+	 
+	
+    
+</Alloy>

@@ -1,0 +1,14 @@
+<Alloy>
+	
+	<Window    title="Login"  >
+    
+    <View class="containerMain">
+			<TextField  id="txtUsername" hintText="\u0020 username..."></TextField>	
+			
+			<TextField   passwordMask="true"  id="txtPassword" hintText="\u0020 password..."></TextField>
+			<Button class="btnSumbit" id="btnSubmit">Login</Button>
+	        <Label id="lblError"></Label>
+	</View>
+	</Window>
+	
+</Alloy>

@@ -1,0 +1,399 @@
+
+
+"Window": {
+	backgroundColor: "#2B2B2B",
+	layout:'vertical',
+	translucent: false,
+	barColor: 'black',
+	LeftNavButton : {
+		
+		title: "<"
+	
+		
+	},
+	statusBarStyle: Titanium.UI.iPhone.StatusBar.LIGHT_CONTENT
+	
+
+    
+	
+    
+		
+}
+
+"Label" : {
+	color:"white",
+	fontFamily: "HelveticaNeue-Light"
+}
+
+"View": {
+	layout:'vertical'
+	
+    
+		
+}
+
+"WebView" : {
+	backgroundColor: "#2B2B2B"
+	
+}
+
+".container": {
+	backgroundColor: "#2B2B2B",
+	layout:'vertical',
+}
+
+".containerMain": {
+	layout:"vertical",
+	width:"85%"
+}
+
+
+"#PlaceHolderLogo": {
+	font: {
+		fontSize: 45,
+		
+	},
+	backgroundColor: "#F07D5C",
+	height:"15%",
+	width: "100%",
+	textAlign: 'center'
+}
+
+"Button": {
+	height: "10%",
+    color: "white",
+	top:"5%",
+	width:"100%",
+	fontFamily: "HelveticaNeue-Light"
+	
+}
+
+
+
+"TextField": {
+
+height: "10%",
+top:"5%",
+width:"100%",
+borderWidth:"2" ,
+borderRadius :"3",
+backgroundColor : "white",
+fontFamily: "HelveticaNeue-Light"
+
+
+}
+
+".btnSumbit": {
+	 borderWidth:"2" ,
+	 borderRadius :"3",
+	borderColor: "#57EF1E",
+	width: "100%",
+	font: {
+		fontSize: 25,
+		fontWeight: "bold"
+		
+		
+	},
+	color: "white"
+	
+	
+}
+
+".blueButton" : {
+	
+	
+	borderColor: "#0036C3"
+}
+
+
+".form": {
+	top: "5%",
+	backgroundColor: "#2B2B2B"
+	
+}
+
+
+"#lblError": {
+ top:"5%",
+ visible: false,
+ color: "red"
+ 
+	
+}
+
+".mainWindow":
+{
+	 navBarHidden:true,
+	 backgroundColor: "#2B2B2B"
+	
+}
+
+
+
+".menubtns": {
+	
+	
+
+	top:"1%",
+	 borderWidth:"1"
+	
+}
+
+"#imageProfile": {
+	width:"80px"
+	
+}
+
+"#listHeader" : {
+	
+	
+	height:"50",
+	backgroundColor: "#4A4848",
+	
+	
+	
+}
+
+"#listUserPhoto" : {
+	
+	
+	height: "50",
+	borderRadius: "30"
+}
+
+
+
+
+"#tableRowMedia #mediaView" : {
+	height:450
+}
+
+"#mediaView" : {
+	height:450
+}
+
+"#listMedia" : {
+	
+	top: "10",
+	width: "306"
+}
+"#video" : {
+	top: "10",
+	height: "306",
+	width: "306"
+	
+}
+"TableView" : {
+backgroundColor : "#2B2B2B",
+separatorColor: "transparent",
+separatorStyle: 1	
+	
+} 
+
+
+
+"#lblBanner": {
+	font: {
+		fontSize: 15,
+		fontWeight: "bold"
+		
+	},
+	textAlign : Titanium.UI.TEXT_ALIGNMENT_CENTER,
+	color:"gray",
+	
+	width: "100%",
+	backgroundColor: "#FAFADC",
+	height: "40"
+	
+}
+
+
+
+
+
+".topHeader" : {
+	
+	height: "70",
+	width: "100%",
+	backgroundColor : "black"
+	
+}
+
+
+
+".lblHeader" : {
+	color:"white",
+	 font: {
+		fontSize: 25,
+		fontFamily: "HelveticaNeue-Light"
+		
+		
+	},
+	top :"30"
+	
+}
+
+
+
+
+
+".alertTime" : {
+	
+	font: {
+		fontSize: 13,
+		fontWeight: "bold",
+		fontFamily: "HelveticaNeue-Light"
+	},
+	
+		
+	color: "white",
+	left: "7"
+	
+}
+
+".alertTimeImage" : {
+	image: "ClockFilled.png",
+	width: "15",
+	height : "15",
+    
+	
+	
+	
+}
+
+
+"#alertUserPhoto" : {
+	
+	left :"4",
+	height: "50",
+	top: "0",
+	borderRadius: "20"
+}
+
+"#alertLargeRow" : {
+	height: "110"
+	
+}
+
+"#alertSmallRow" : {
+	
+	height: "70"
+}
+
+
+".alertTitle" : {
+	
+	font: {
+	fontSize: 17,
+	fontWeight : "bold",
+	fontFamily: "Helvetica"
+	},
+	left: "10",
+	
+}
+
+".alert" : {
+	font: {
+		fontSize: 17,
+		fontFamily: "HelveticaNeue-Light"
+	},
+	
+	left:"10"
+	
+	
+}
+
+
+".alertAction" : {
+	
+	layout: "horizontal",
+	top: "10"
+}
+
+".alertContent" : {
+	layout : "vertical",
+	width: "66%"
+	
+	
+}
+".btnAccept" : {
+	
+	width: "70",
+	height: "25",
+	borderWidth:"2" ,
+	borderRadius :"3",
+	borderColor: "#57EF1E",
+	font: {
+	fontSize: 16,
+	fontWeight : "bold"
+	}
+	
+}
+
+".btnReject" : {
+	width: "70",
+	height: "25",
+	borderColor: "red",
+	left: "10",
+	borderWidth:"2" ,
+	borderRadius :"3",	
+	font: {
+		
+	    fontSize: 16,
+		fontWeight : "bold"
+	}
+	
+}
+
+
+
+".message" : {
+	
+	font: {
+		fontSize: 25,
+		fontFamily: "HelveticaNeue-Light"
+	},
+	color: "white"
+	
+}
+
+".messageCentered" : {
+	
+	font: {
+		fontSize: 25,
+		fontFamily: "HelveticaNeue-Light"
+	},
+	color: "white",
+	top: "15%"
+	
+}
+
+'.addFollower' : {
+	
+	backgroundColor: "black",
+	color: "white",
+	left:"10",
+	top: "-35",
+	zIndex:"100",
+	font: {
+		fontSize: 13,
+		fontWeight: "bold"
+		
+	},
+	
+	
+}
+
+'.addInstagram' : {
+	
+	
+	color: "white",
+	right:"5",
+	top: "-30",
+	zIndex:"100",
+	width: "25",
+	height: "25"
+	
+	
+	
+}

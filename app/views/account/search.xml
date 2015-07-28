@@ -1,0 +1,12 @@
+<Alloy>
+	<Window class="container">
+		
+		<TextField id="txtSearch" hintText="search by username.."  maxLength="25"></TextField>
+		
+		<Button  id="btnSubmit" class="btnSumbit">Search</Button>
+		
+		
+		<Label id="lblNotFound" visible="false">User Not Found</Label>
+			
+	</Window>
+</Alloy>

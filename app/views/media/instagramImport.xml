@@ -1,0 +1,8 @@
+<Alloy>
+	<Window backgroundColor="white"  title="Add Media" >
+			
+	<TableView id="table" >
+		
+	</TableView>
+    </Window>
+</Alloy>

@@ -1,0 +1,17 @@
+<Alloy>
+	
+	<Window    title="Sign Up"  >
+    
+    	<View class="containerMain">
+    		
+			<TextField id="txtEmail" hintText="\u0020 enter your email..."></TextField>	
+			<TextField id="txtUsername"   maxLength="10" hintText="\u0020 create a username..."></TextField>
+			<TextField id="txtPassword" hintText="\u0020 create a password..."></TextField>
+			<Button class="btnSumbit" id="btnSubmit">Sign Up</Button>
+			
+			<Label id="lblError"></Label>
+	
+	</View>
+	</Window>
+	
+</Alloy>

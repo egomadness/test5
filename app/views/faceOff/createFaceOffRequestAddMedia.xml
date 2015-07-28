@@ -1,0 +1,17 @@
+<Alloy>
+	<Window class="container" >
+		<View class="containerMain">
+		
+		<Label id="description" class="messageCentered"  ></Label>
+		
+		<Button     class="blueButton btnSumbit" id="btnImportMedia"  ></Button>
+		<Button      class="btnSumbit " id="btnFaceOffMedia" ></Button>
+       	
+		
+	</View>
+		
+		
+	
+		  
+    </Window>
+</Alloy>

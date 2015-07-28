@@ -1,0 +1,11 @@
+<Alloy>
+	<TableViewRow id="tableRowMedia" height="100%" >
+	<View class="container"  layout="vertical" width="80%">
+		
+		
+		<ImageView  top="30%"image="sad.png"></ImageView>
+		
+		<Label top="20"   textAlign="center" class="message" id="lblMessage">No Data</Label>
+	</View>
+	</TableViewRow>
+</Alloy>

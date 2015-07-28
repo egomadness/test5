@@ -1,0 +1,25 @@
+
+"#activityIndicator[platform=ios]" : {
+ 
+ height: Titanium.UI.SIZE,
+ width: Titanium.UI.SIZE,
+ style: Titanium.UI.iPhone.ActivityIndicatorStyle.BIG,
+ indicatorColor : "white",
+ top:'50%' 
+}
+
+"#activityIndicator[platform=android]" : {
+ 
+ height:Titanium.UI.SIZE,
+ width:Titanium.UI.SIZE,
+ style: Titanium.UI.ActivityIndicatorStyle.BIG,
+ indicatorColor : "white",
+ top:'50%'  
+}
+
+".loadIndicator" :  {
+	
+	backgroundColor : 'black',
+	opacity:0.5
+	
+}

@@ -1,0 +1,53 @@
+".mainWindow":
+{
+	 navBarHidden:true
+	
+}
+"Label": {
+	width: "100%",
+	height: "70",
+	color: "#FFFFFF",
+	font: {
+		fontSize: 30,
+	    fontWeight: "bold"
+		
+		
+	},
+	 textAlign: "center"
+}
+
+
+".mainLabel" : {
+	font: {
+		fontSize: 60,
+	}
+	
+}
+
+".leftButton" : {
+	
+	layout:"absolute",
+	borderColor:"#57EF1E",
+    borderWidth: "2",
+    borderRadius: "3",
+    left:"5%",
+    bottom:"5%",
+    height:"60",
+    width:"43%"
+}
+
+".rightButton" : {
+	
+	layout:"absolute",
+	backgroundColor:"#0036C3" ,
+	borderRadius:"3",
+	right:"5%",
+	bottom:"5%",
+	height:"60",
+	width:"43%"
+}
+
+
+
+
+

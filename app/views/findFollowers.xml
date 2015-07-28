@@ -1,0 +1,15 @@
+<Alloy>
+	
+	<Window>
+	<View class="containerMain">
+		
+		<Label  class="messageCentered"  text="Find people to follow on Egomadness by clicking one of the buttons below."></Label>
+		
+		<Button  title="Get from Egomadness"    class="btnSumbit " id="btnExplore" ></Button>
+       <Button      title="Get from Instagram" class="blueButton btnSumbit" id="btnInstagram"  ></Button>	
+		
+	</View>
+	
+	</Window>
+	
+</Alloy>

@@ -1,0 +1,38 @@
+
+".container" : {
+  
+}
+
+".confirmHeader" : {
+	
+	height: "50",
+	width: "100%",
+	backgroundColor : "#2B2B29"
+	
+}
+
+"Button" : {
+	
+	height:"45",
+	width:"49%",
+	color:"white",
+	font: {
+		fontSize: 25,
+		fontWeight: "bold"
+		
+		
+	},
+	 borderWidth:"2" ,
+	 borderRadius :"3"
+}
+
+".btnCancel":
+{
+	borderColor:"red"
+	
+}
+
+".btnConfirm" : {
+	
+	borderColor:"green"
+}

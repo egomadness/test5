@@ -1,0 +1,22 @@
+<Alloy>
+	<Window class="container">
+		<View height="100%" backgroundColor="black"  >
+		<View id="egoMapView" height="40%">
+			<ImageView id="egoMap"></ImageView>
+			<Label id ="lblPoints"></Label>
+			<Label id="lblStatus"></Label>
+			<Label id="lblwins"></Label>
+		</View>
+		
+		<View id="profile" height="60%">
+			
+		<Label id="username"></Label>
+		<ImageView id="imgProfile"></ImageView>
+		<Button id="btnFollow"></Button>
+		<Label id="lblFollowers">Followers</Label>
+		<Label id="lblFollowing">Following</Label>
+		<Label id="lblFaceOffsActive">Active FaceOffs</Label>
+		</View>
+		</View>
+	</Window>
+</Alloy>

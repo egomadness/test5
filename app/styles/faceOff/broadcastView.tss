@@ -1,0 +1,79 @@
+"#listCreateDate[if=Alloy.Globals.isIphone5]": {
+    
+    left : '270'	
+}
+
+
+"#listCreateDate[if=Alloy.Globals.isIphone6]": {
+    
+    left : '320',
+	
+	
+	
+	
+	
+}
+
+"#listCreateDate[if=Alloy.Globals.isIphone6plus]": {
+    
+    left : '369',
+	
+	
+}
+
+"#listUsername" : {
+	
+	
+	color: "white",
+		font: {
+	fontSize: 13,
+	fontWeight : "bold",
+	fontFamily: "Helvetica"
+	},
+	left:"0"
+}
+
+"#tm" :{
+		font: {
+	fontSize: 12,
+	fontFamily: "Helvetica"
+	},
+	color: "white",
+	left: "5"
+	
+}
+
+"#listCreateDate" : {
+	
+	
+		font: {
+	fontSize: 7,
+	fontFamily: "Helvetica"
+	},
+	color: "white",
+	
+	
+	
+}
+
+
+"#lblTitle" : {
+		font: {
+	fontSize: 19,
+
+	fontFamily: "Helvetica"
+	},
+	color: "white",
+	bottom: "0"
+	
+	
+}
+
+
+
+
+
+
+".container" : {
+  
+}

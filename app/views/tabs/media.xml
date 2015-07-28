@@ -1,0 +1,20 @@
+<Alloy>
+	
+		
+	<Window  class="mainWindow"  id="topWindow">
+		<View class="topHeader">
+		<Label id="lblHeader" class="lblHeader" >Requests</Label>
+		<ImageView image="addUser.png" id="addFollower" class="addFollower"></ImageView>
+		<ImageView  id="btnAddMedia" image="plusFilled.png"  class="addInstagram"></ImageView>
+		</View>
+		
+		
+		
+		
+		<TableView id="table"  >
+		
+	   </TableView>
+		
+	</Window>
+	
+</Alloy>

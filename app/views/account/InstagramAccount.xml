@@ -1,0 +1,13 @@
+<Alloy>
+	<Window id ="viewRemoveInsta" backgroundColor="white" layout="vertical"> 
+			
+			
+				<Label  id="btnImportInstagramMedia" class="menubtns" width="300"  style="textAlign:center">Add FaceOff Media</Label>
+			
+		  
+			
+				<Label  id="btnRemoveInstagram" class="menubtns" width="300" style="textAlign:center">Remove Instagram</Label>
+			
+	
+		</Window>
+</Alloy>

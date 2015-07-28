@@ -1,0 +1,22 @@
+<Alloy>
+	<TableViewRow id="tableRowMedia"  height="380" >
+	<View >
+		<View id="mediaView" >
+		
+		
+		
+		
+	</View>
+	
+	
+	</View>
+	
+	
+		
+		<Button  top="325"   width="320" class="btnSumbit" id="btnImport">Select</Button>
+
+		
+	
+	
+	</TableViewRow>
+</Alloy>

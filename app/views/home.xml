@@ -1,0 +1,22 @@
+<Alloy>
+	<TabGroup id="mainTabGroup" class="container"    activeTabIconTint="white"    >
+		<Tab id="tbFaceOff"  title="FaceOffs" icon="/tabIcons/home.png"     activeIcon="/tabIcons/homeActive.png" >
+		
+			<Require src="/tabs/faceOffs" id="tabFaceOff" />
+			
+		</Tab>
+		<Tab id="tbMedia" title="Requests" icon="/tabIcons/broadcast.png" activeIcon="/tabIcons/broadcastActive.png" >
+			<Require src="/tabs/media" id="tabMedia"/>
+		</Tab>
+		<Tab id="tbExplore" title="Explore" icon="/tabIcons/search.png" activeIcon="/tabIcons/searchActive.png">
+			<Require src="/tabs/explore" id="tabExplore"/>
+		</Tab>
+		<Tab id="tbAlerts"  icon="/tabIcons/globe.png"   activeIcon="/tabIcons/globeActive.png" title="Alerts">
+			<Require src="/tabs/alerts" id="tabAlerts"/>
+		</Tab>
+		<Tab id="tbMore" title="More" icon="/tabIcons/menu.png"  activeIcon="/tabIcons/menuActive.png">
+			<Require src="/tabs/more" id="tabMore"/>
+		</Tab> 
+	</TabGroup>
+	
+</Alloy> 

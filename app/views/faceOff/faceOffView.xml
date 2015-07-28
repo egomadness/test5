@@ -1,0 +1,39 @@
+<Alloy>
+	<Window class="container">
+		<View  height="100">
+		
+		<Label id="lblTitle"></Label>
+		
+		</View>
+		
+    		
+		 <View layout="horizontal" height="200">
+     	
+     	<View layout="vertical" width="120">
+     		<Label  id="userNameRequestor"></Label>
+     		<ImageView   id="photoRequestor" height="100" width="100"></ImageView>
+     		<Button id="btnWatchRequestor">Watch</Button>
+     		<Button id="btnVoteRequestor" enabled="false">Vote</Button>
+     	</View>
+     	
+     	<View layout="vertical" width="120">
+     		<Label  id="userNameAcceptor"></Label>
+     		<ImageView   id="photoAcceptor" height="100" width="100"></ImageView>
+     		<Button id="btnWatchAcceptor">Watch</Button>
+     		<Button id="btnVoteAcceptor" enabled="false">Vote</Button>
+     	</View>
+     	<Label  id="listCreateDate" ></Label>
+     	
+     	</View>
+     	
+     	<View id="commentView" height="200">
+     		
+     		<Button id="btnComment">Comment</Button>
+     		<TableView id="tblComments">
+     			
+     			
+     		</TableView>
+     	</View>
+		
+	</Window>
+</Alloy>

@@ -1,0 +1,29 @@
+<Alloy>
+	<TableViewRow id="tableRowMedia" height="450">
+		<View id="mediaView" >
+		<View  id="listHeader" > 
+			
+    		
+    		<Label  id="listCreateDate" ></Label>
+    		<Label id="lblTitle"></Label>
+       </View>	
+     <View layout="horizontal">
+     	
+     	<View layout="vertical" width="120">
+     		<Label  id="userNameRequestor"></Label>
+     		<ImageView   id="photoRequestor" height="100" width="100"></ImageView>
+     	</View>
+     	
+     	<View layout="vertical" width="120">
+     		<Label  id="userNameAcceptor"></Label>
+     		<ImageView   id="photoAcceptor" height="100" width="100"></ImageView>
+     		<Button  id="btnSubmit" class="btnSumbit">Watch</Button>
+     	</View>
+     	
+     	
+     	 </View>
+		
+		
+		</View>
+	</TableViewRow>
+</Alloy>

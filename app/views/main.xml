@@ -1,0 +1,11 @@
+<Alloy>
+	<Window class="container mainWindow" >
+		
+		<Label  id="PlaceHolderLogo">Ego!Madness</Label>
+		<Label id="BodyLabel">FaceOff with your Instagram, YouTube and SoundCloud media. Win and watch your ego grow!</Label>
+		
+		<Button class="homeButton button"  onClick="signup"  id="btnSignUp">Signup</Button>
+		
+		<Button class="homeButton button" id="btnLogin">Login</Button>
+	</Window>
+</Alloy>

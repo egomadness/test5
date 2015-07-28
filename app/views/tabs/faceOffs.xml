@@ -1,0 +1,23 @@
+<Alloy>
+
+	
+	<Window class="mainWindow"  id="topWindow">
+		<View class="topHeader"  >
+			
+		<Label  id="lblHeader" class="lblHeader" >FaceOffs</Label>
+		<ImageView image="addUser.png" id="addFollower" class="addFollower"></ImageView>
+		<ImageView  id="btnAddMedia" image="searchFilled.png"  class="addInstagram"></ImageView>
+		</View>
+		
+		
+		
+		
+		
+		
+		<TableView id="table" >
+		
+	   </TableView>
+	</Window>
+	
+
+</Alloy>

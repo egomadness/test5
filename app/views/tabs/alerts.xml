@@ -1,0 +1,15 @@
+<Alloy>
+	
+	<Window class="mainWindow" id="topWindow">
+		<View class="topHeader">
+		<Label class="lblHeader">Alerts</Label>
+		</View>
+		
+		
+		<TableView id="table"  >
+		
+	   </TableView>
+		
+	</Window>
+	
+</Alloy>

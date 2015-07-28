@@ -1,0 +1,13 @@
+<Alloy>
+	<Window class="container" title="Create FaceOff">
+		
+			
+		<Label>Create a FaceOff title</Label>
+		
+				<TextField id="txtFaceOffTitle" hintText="Create a title"></TextField>
+		
+		<Button id="btnSubmit" class="btnSubmit">Next</Button>
+		
+				
+	</Window>
+</Alloy>

@@ -1,0 +1,6 @@
+<Alloy>
+	<Window  class="container" >
+		<Label  visible="false" id="lblAddMedia">Add Instagram Media</Label>
+		<WebView id="viewAddInstagram" height="100%" width="100%" ></WebView>
+	</Window>
+</Alloy>

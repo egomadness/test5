@@ -1,0 +1,13 @@
+<Alloy>
+
+	
+	<Window   id="topWindow">
+		
+		
+		<TableView id="table" >
+		
+	   </TableView>
+	</Window>
+	
+
+</Alloy>

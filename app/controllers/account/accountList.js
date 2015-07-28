@@ -6,7 +6,6 @@ var args = arguments[0] || {};
 var showFollowers = args.showFollowers;
 var userGuid = args.userGuid;
 var currentTab = args.currentTab;
-
 var returnedClient;
 
 
